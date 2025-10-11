@@ -2,7 +2,7 @@
 
 Este é o capítulo um da nossa história.
 
-Desenvolvendo o desenvolvimento. (Erro Grave).
+Desenvolvendo o desenvolvimento.
 
 Conclusão.
 
