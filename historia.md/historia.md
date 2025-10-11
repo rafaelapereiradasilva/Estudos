@@ -7,3 +7,4 @@ Agora arrumamos o bug, logo, está udo certo!.
 
 Conclusão ajustada, agora está tudo ok.
 
+Isso aqui é um rascunho 
